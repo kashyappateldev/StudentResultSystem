@@ -1,0 +1,21 @@
+[
+    {
+        "student_id": "220020107045",
+        "name": "KASHYAP",
+        "class_name": "CE 2 SEM",
+        "subjects": {
+            "BEE": 50.0,
+            "BME": 22.0
+        }
+    },
+    {
+        "student_id": "002",
+        "name": "Nirjala",
+        "class_name": "MCA 3 SEM",
+        "subjects": {
+            "BEE": 70.0,
+            "BME": 40.0,
+            "OOPs": 60.0
+        }
+    }
+]
